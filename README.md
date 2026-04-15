@@ -21,4 +21,3 @@ time-series windows and fed into a trained SVM classifier.
 - Signal Processing Toolbox
 - Statistics and Machine Learning Toolbox
 
-## File Structure
